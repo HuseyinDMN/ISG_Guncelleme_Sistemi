@@ -1,5 +1,6 @@
 {
-  "version": "1.0.1",
-  "url": "https://github.com/HuseyinDMN/ISG_Guncelleme_Sistemi/releases/download/1.0.1/VidcoISG_Setup.exe",
+  "version": "1.0.2",
+  "url": "https://github.com/HuseyinDMN/ISG_Guncelleme_Sistemi/releases/download/1.0.2/VidcoISG_Setup.exe",
   "changelog": "- Otomatik güncelleme altyapısı eklendi.\n- Çeşitli hata düzeltmeleri yapıldı."
+
 }
